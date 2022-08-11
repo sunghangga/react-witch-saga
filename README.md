@@ -7,7 +7,7 @@ Setup Procedure
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles for development
 ```
 npm run start
 ```

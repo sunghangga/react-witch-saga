@@ -2,7 +2,7 @@
   "homepage": "https://sunghangga.github.io/react-witch-saga",
   "name": "react-witch-saga",
   "version": "1.0.0",
-  "description": "React Witch Saga Problems",
+  "description": "React Witch Saga Frontend",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.0.2",
