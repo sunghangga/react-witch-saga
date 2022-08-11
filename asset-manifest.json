@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-witch-saga/static/css/main.08a69aca.chunk.css",
+    "main.js": "/react-witch-saga/static/js/main.0e73e57f.chunk.js",
+    "main.js.map": "/react-witch-saga/static/js/main.0e73e57f.chunk.js.map",
+    "runtime~main.js": "/react-witch-saga/static/js/runtime~main.0f962669.js",
+    "runtime~main.js.map": "/react-witch-saga/static/js/runtime~main.0f962669.js.map",
+    "static/js/2.6e56dc5b.chunk.js": "/react-witch-saga/static/js/2.6e56dc5b.chunk.js",
+    "static/js/2.6e56dc5b.chunk.js.map": "/react-witch-saga/static/js/2.6e56dc5b.chunk.js.map",
+    "index.html": "/react-witch-saga/index.html",
+    "precache-manifest.366e33fa0ef2307dcde1199275d23ec7.js": "/react-witch-saga/precache-manifest.366e33fa0ef2307dcde1199275d23ec7.js",
+    "service-worker.js": "/react-witch-saga/service-worker.js",
+    "static/css/main.08a69aca.chunk.css.map": "/react-witch-saga/static/css/main.08a69aca.chunk.css.map"
+  }
+}
